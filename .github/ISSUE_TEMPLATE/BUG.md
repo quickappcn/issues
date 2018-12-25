@@ -1,6 +1,9 @@
 ---
-name: 🐞 bug 报告
+name: "\U0001F41E bug 报告"
 about: 开发问题报告
+title: ''
+labels: bug
+assignees: UncleBill
 
 ---
 
@@ -33,5 +36,3 @@ about: 开发问题报告
 
 
 ### 实际效果
-
-
