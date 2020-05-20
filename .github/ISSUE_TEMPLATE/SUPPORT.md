@@ -3,7 +3,7 @@ name: "\U0001F198 帮助"
 about: "\U0001F449\U0001F3FD 提问前请自行通过搜索引擎检索或搜索项目中是否已存在相同的问题"
 title: ''
 labels: question
-assignees: ''
+assignees: tech-bro-in-vivo
 
 ---
 

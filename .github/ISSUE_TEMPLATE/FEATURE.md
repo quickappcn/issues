@@ -3,7 +3,7 @@ name: "✨ 建议和需求"
 about: 改进建议或提需求
 title: ''
 labels: 建议/需求
-assignees: ''
+assignees: tech-bro-in-vivo
 
 ---
 

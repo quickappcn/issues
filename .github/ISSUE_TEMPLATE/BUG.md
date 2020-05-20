@@ -3,7 +3,7 @@ name: "\U0001F41E bug 报告"
 about: 开发问题报告
 title: ''
 labels: bug
-assignees: UncleBill
+assignees: tech-bro-in-vivo
 
 ---
 
